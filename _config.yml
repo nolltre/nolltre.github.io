@@ -1,1 +1,7 @@
-theme: jekyll-theme-midnight
+theme: minima
+minima:
+  skin: solaized-dark
+timezone: Europe/Dublin
+title: Nolltre
+description: Dan's Github pages
+show_downloads: false
