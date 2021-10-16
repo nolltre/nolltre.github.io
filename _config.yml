@@ -1,7 +1,20 @@
-theme: minima
-minima:
-  skin: solaized-dark
 timezone: Europe/Dublin
-title: Nolltre
+locale: "en-IE"
+title: A very non-interesting site
+name: Daniel Kamark
 description: Dan's Github pages
-show_downloads: false
+url: https://nolltre.se
+repository: "nolltre/nolltre.github.io"
+
+twitter_username: nolltre_se
+github_username:  nolltre
+
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: dark
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jemoji
+  - jekyll-include-cache

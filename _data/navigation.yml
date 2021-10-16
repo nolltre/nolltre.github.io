@@ -1,0 +1,5 @@
+repos:
+  - title: Repositories
+    children:
+    - title: Userscripts
+      url: https://github.com/nolltre/userscripts
